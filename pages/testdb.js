@@ -21,10 +21,45 @@ export default function testdb({data}) {
         <h1 className="text-4xl text-center text-white">Hola testDB</h1>
         
         {data[0].correo}
-
+        
 
 
         </main>
+{ /*aqui empieza clase del 21 de nov */}
+
+        Console.log(loading)
+        Return(
+            { /* formulario */}
+            <div>
+
+                
+            </div>
+
+
+        )
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         </>
     )
 
